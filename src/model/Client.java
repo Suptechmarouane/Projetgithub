@@ -4,5 +4,6 @@ public class Client {
 	int id;
 	String nom;
 	int age;
+	String ville;
 
 }
